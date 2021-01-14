@@ -49,6 +49,14 @@ a {
   padding: 8px 12px;
 }
 
+.navbar__toogleBtn {
+  display: none;
+  position: absolute;
+  right: 32px;
+  font-size: 24px;
+  color: #d49466;
+}
+
 /* responsive display! */
 @media screen and (max-width: 768px) {
   .navbar {
@@ -57,6 +65,7 @@ a {
     padding: 8px 24px;
   }
   .navbar__menu {
+    display: none;
     flex-direction: column;
     align-items: center;
     width: 100%;
@@ -68,7 +77,12 @@ a {
   }
 
   .navbar__icons {
+    display: none;
     justify-content: center;
     width: 100%;
+  }
+
+  .navbar__toogleBtn {
+    display: block;
   }
 }
