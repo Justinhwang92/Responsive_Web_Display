@@ -12,8 +12,8 @@ Responsive Web Display UI component
 
 ### Menu hiden
 
-<img src="demo/small_hide.png" alt="">
+<img src="demo/small_hide.png">
 
 ### Menu open
 
-<img src="demo/small_open.png" alt="">
+<img src="demo/small_open.png>
