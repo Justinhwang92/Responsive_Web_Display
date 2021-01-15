@@ -16,4 +16,4 @@ Responsive Web Display UI component
 
 ### Menu open
 
-<img src="demo/small_open.png>
+<img src="demo/small_open.png">
