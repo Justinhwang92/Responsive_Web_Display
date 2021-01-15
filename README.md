@@ -10,8 +10,10 @@ Responsive Web Display UI component
 
 ## Small Screen (mobile environment)
 
-Menu hiden
+### Menu hiden
+
 <img src="demo/small_hide.png" alt="">
 
-Menu open
+### Menu open
+
 <img src="demo/small_open.png" alt="">
